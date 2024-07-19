@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\Meikel\Downloads\Auto_D_Schematic\AUTO_D_SCHEMATICS\Project Outputs for AUTO_D_SCHEMATICS\Pick Place\Pick Place for AUTO_D_SCHEMATICS.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/06/22
+Time:       21:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation"
+"S1","TopLayer","87.0000","-23.9000","90"
+"C1","TopLayer","73.0520","-24.1810","180"
+"C2","TopLayer","73.0520","-43.7390","180"
+"C3","TopLayer","53.4750","-14.8250","270"
+"C4","TopLayer","47.9870","-10.6640","180"
+"C5","TopLayer","43.7960","-10.6640","360"
+"IC1","TopLayer","76.3875","-33.9600","180"
+"IC2","TopLayer","32.8340","-47.2020","180"
+"IC3","TopLayer","32.7750","-29.9250","180"
+"J2","TopLayer","78.7490","-62.7730","180"
+"J1","TopLayer","47.7620","-65.7380","180"
+"J4","TopLayer","49.7750","-43.5350","360"
+"LED1","TopLayer","72.1630","-53.1370","180"
+"LED2","TopLayer","10.8390","-68.0520","180"
+"LED3","TopLayer","10.8390","-59.1301","180"
+"LED4","TopLayer","10.8390","-50.2083","180"
+"LED5","TopLayer","10.8390","-41.2864","180"
+"LED6","TopLayer","10.8390","-32.3646","180"
+"LED7","TopLayer","10.8390","-23.4427","180"
+"LED8","TopLayer","10.8390","-14.5209","180"
+"LED9","TopLayer","10.8390","-5.5990","180"
+"P1","TopLayer","63.4500","-22.4300","90"
+"Q1","TopLayer","67.2510","-61.7730","180"
+"R1","TopLayer","78.3000","-53.1250","360"
+"R2","TopLayer","71.8430","-61.1380","180"
+"R3","TopLayer","67.2710","-57.9630","360"
+"R5","TopLayer","16.3000","-68.0520","360"
+"R6","TopLayer","16.3000","-59.1301","360"
+"R7","TopLayer","16.3000","-50.2083","360"
+"R8","TopLayer","16.3000","-41.2864","360"
+"R9","TopLayer","16.3000","-32.3646","360"
+"R10","TopLayer","16.3000","-23.4427","360"
+"R11","TopLayer","16.3000","-14.5209","360"
+"R12","TopLayer","16.3000","-5.5990","360"
+"U1","TopLayer","52.6050","-25.5780","270"
+"Y1","TopLayer","46.0820","-14.9820","360"
+"R4","TopLayer","63.0000","-26.4000","360"
+"J3","TopLayer","78.7490","-15.4020","180"
